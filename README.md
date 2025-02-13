@@ -31,10 +31,20 @@
 <i>Follow me around the web:</i><br>
 
 
-<a href="https://www.linkedin.com/in/muhammed-shabeer-2ba572246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/she_bii._/?next=%2F&hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://muhammedshebeer.github.io/shabeerportfolio/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg? &style=flat-square &logoColor=white" alt="Portfolio">
-</a>
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.linkedin.com/in/muhammed-shabeer-2ba572246/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/she_bii._/?next=%2F&hl=en" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/originalphreak" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://muhammedshebeer.github.io/shabeerportfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
+    </a>
+</div>
+
 
 </div>
