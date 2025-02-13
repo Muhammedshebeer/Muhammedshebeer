@@ -31,7 +31,7 @@
 <i>Follow me around the web:</i><br>
 
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; ">
     <a href="https://www.linkedin.com/in/muhammed-shabeer-2ba572246/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat &for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
