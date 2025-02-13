@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/muhammed-shabeer-2ba572246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/she_bii._/?next=%2F&hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://muhammedshebeer.github.io/shabeerportfolio/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?&style=flat-square&logo=instagram&logoColor=white" alt="Portfolio">
+<a href="https://muhammedshebeer.github.io/shabeerportfolio/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio &style=flat-square&logo=instagram&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
