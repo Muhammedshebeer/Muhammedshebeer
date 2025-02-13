@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://muhammedshebeer.github.io/shabeerportfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style= flat &for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
     </a>
 </div>
 
