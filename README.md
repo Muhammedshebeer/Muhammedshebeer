@@ -33,13 +33,13 @@
 
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/muhammed-shabeer-2ba572246/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat &for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/she_bii._/?next=%2F&hl=en" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat &for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.facebook.com/originalphreak" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat &for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://muhammedshebeer.github.io/shabeerportfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style= flat &for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
